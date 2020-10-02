@@ -1,4 +1,4 @@
 #!/usr/bin/node
 
 
-console.log('hello wrold');
+console.log('hello wrold!');
